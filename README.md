@@ -1,2 +1,2 @@
-# react-cahkra-user-setting
+# react-chakra-app
 Created with CodeSandbox
